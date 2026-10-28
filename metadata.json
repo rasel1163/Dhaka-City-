@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ঢাকা সিএনজি ড্রাইভার ৩ডি - Dhaka CNG Driver 3D",
+  "description": "An authentic 3D Bangladeshi CNG Auto Rickshaw driving simulation set on Begum Rokeya Avenue, Mirpur-10 with elevated Metro rail, breakable roadside shops, Dhaka traffic, and passenger missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
